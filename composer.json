@@ -1,0 +1,14 @@
+{
+    "name": "arturs/puzzle",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arturs Skulteckis",
+            "email": "arturs.skulteckis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {}
+}
